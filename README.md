@@ -33,3 +33,27 @@ Objectives:
 
 Accomplished:
   Weekly team meeting form
+  Start filling out project proposal
+
+2/7/2022
+
+Objectives:
+  Looking through a reported transaction as a basis for tracing the money
+  Look at Wormhole incident report
+    3 million stolen from wormhole on Solana
+  Possibly start tracing when the money has been stolen but hasn't been moved yet
+  Start looking at first transaction where they stole money
+  Solscan and Solana beach can be helpful tools for tracing
+  
+  Stretch Goal - add the ability to blacklist wallet addresses
+    when an address has been reported 3 times, add it to blacklist address
+    find first transaction on address and then go forward from there
+    
+  Transactions cannot be deleted from blockchain
+  Possibly give partial information until they select they would like to see more
+  Heroku for web-hosting
+
+Accomplished:
+  Understanding of how to do a trace from the origin point
+  Should go backwards and forwards when given the bad transaction
+  Sectioned up the project proposal 
