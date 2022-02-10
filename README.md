@@ -57,3 +57,9 @@ Accomplished:
   Understanding of how to do a trace from the origin point
   Should go backwards and forwards when given the bad transaction
   Sectioned up the project proposal 
+  
+2/9/2022
+
+Worked on the Project Proposal 
+Came up with tasks for each stage of the project including the front-end, back-end, and blacklist features
+
