@@ -3,14 +3,12 @@ Individual Notebook
 
 2/2/2022
 
-Objectives:
   Review Project Proposal Template
   Discuss inputs needed for program
   Determine applicable API for program
   General Research on tracing blockchain
   Organization for web page
   
-Accomplished:
   Take in wallet address and transaction id as inputs
   API could be https://docs.solana.com/developing/clients/javascript-api
   Include a validation step for saving wallet addresses as potential scams
@@ -26,18 +24,15 @@ Accomplished:
 
 2/4/2022
 
-Objectives:
   Team Meeting
   Fill out team meeting form
   Make a slide about me for next meeting
 
-Accomplished:
   Weekly team meeting form
   Start filling out project proposal
 
 2/7/2022
 
-Objectives:
   Looking through a reported transaction as a basis for tracing the money
   Look at Wormhole incident report
     3 million stolen from wormhole on Solana
@@ -53,7 +48,6 @@ Objectives:
   Possibly give partial information until they select they would like to see more
   Heroku for web-hosting
 
-Accomplished:
   Understanding of how to do a trace from the origin point
   Should go backwards and forwards when given the bad transaction
   Sectioned up the project proposal 
@@ -62,4 +56,15 @@ Accomplished:
 
 Worked on the Project Proposal 
 Came up with tasks for each stage of the project including the front-end, back-end, and blacklist features
+
+2/11/2022
+
+Filled out the project proposal
+  Created a Gantt and Pertt chart for the report
+    listed the tasks out by weeks for the project
+  Filled out itemized budgets
+  Filled out safety concerns
+  Cpmpleted the economic analysis
+Worked on filling out the weekly meeting report
+
 
