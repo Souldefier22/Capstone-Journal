@@ -67,4 +67,6 @@ Filled out the project proposal
   Cpmpleted the economic analysis
 Worked on filling out the weekly meeting report
 
+2/14/2022
 
+  Presented Project Proposal
