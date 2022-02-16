@@ -70,3 +70,9 @@ Worked on filling out the weekly meeting report
 2/14/2022
 
   Presented Project Proposal
+  
+2/16/2022
+
+  Setup Jira for backend and user story organization
+  Started setting up the environment area by renewing and downloading Pycharm
+  Setup a seperate repository for the codebase
