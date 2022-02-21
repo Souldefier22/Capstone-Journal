@@ -76,3 +76,15 @@ Worked on filling out the weekly meeting report
   Setup Jira for backend and user story organization
   Started setting up the environment area by renewing and downloading Pycharm
   Setup a seperate repository for the codebase
+  
+2/18/2022
+
+  Began setting up development environment
+  Created a develepment branch for backend 
+  
+2/21/2022
+
+  Finished setting up development environment
+  Work through a manual trace on the Wormhole attack
+  Start working on the backwards tarce manually/focus on functional rather than pretty
+  
