@@ -88,3 +88,11 @@ Worked on filling out the weekly meeting report
   Work through a manual trace on the Wormhole attack
   Start working on the backwards tarce manually/focus on functional rather than pretty
   
+2/28/2022
+
+  Focus on the traceback for the tranasactions and suspicious accounts
+  Possibly switching to the JSON RPC API for getting the transactions on an account
+    Solana beach API throwing errors for getting more transactiosn than exist
+  Created a loop for going backwards through an account's transactions
+  Look at the Long Term Transaction API
+  Explore other API
