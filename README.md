@@ -96,3 +96,12 @@ Worked on filling out the weekly meeting report
   Created a loop for going backwards through an account's transactions
   Look at the Long Term Transaction API
   Explore other API
+
+3/2/2022
+  
+  Looked at alternative API's
+  Determined the offset of the solanabeach api couldn't go above 1000 and can't be used
+  Resolved first issue of timeout error by switching to genesysgo endpoint for the API
+    Loop takes too long to iterate trhough the transactions because only 1000 can be grabbed at a time
+    Will still time out but takes longer because there is no limit on the number of API calls
+  Met with TA to update them on the ongoing problems with the API's and discuss next steps
