@@ -105,3 +105,13 @@ Worked on filling out the weekly meeting report
     Loop takes too long to iterate trhough the transactions because only 1000 can be grabbed at a time
     Will still time out but takes longer because there is no limit on the number of API calls
   Met with TA to update them on the ongoing problems with the API's and discuss next steps
+  
+ 3/7/2022
+ 
+  Pivot to a different problem
+    Finding the origin of the atacking account is out of scope
+    Trace the transactions made by the account and mark them as suspicious
+  Be able to mark account that were marked multiple times as suspicious as blacklisted
+    Ignore system addresses that will be marked as 11111111111
+  Go forward in the trace instead of just backwards
+  MVP: Start with an attack transaction, output a list of wallet addresses that are connected to that account and mark them as suspicious 
