@@ -115,3 +115,15 @@ Worked on filling out the weekly meeting report
     Ignore system addresses that will be marked as 11111111111
   Go forward in the trace instead of just backwards
   MVP: Start with an attack transaction, output a list of wallet addresses that are connected to that account and mark them as suspicious 
+  
+  3/23/2022
+  
+    The backwards trace is completely functional pending any additional features that come up in the future
+      The backwards trace returns a dictionary that has keys for transactions and for accounts where each item is a list of their corresponding values
+    Peer Review, Midterm check, and Presentations are completed and turned in
+    Possibly implement an API for getting the blacklisted addresses as a stretch goal
+      Have an api call for getting the blacklisted and suspicious addresses
+      Have an api call for checking whether or not an input address is already marked as suspicious or blacklisted
+    Look at mint addresses to see examples of accounts that may not need to be marked
+    Start refactoring the tracing code
+     
