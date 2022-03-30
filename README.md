@@ -126,4 +126,21 @@ Worked on filling out the weekly meeting report
       Have an api call for checking whether or not an input address is already marked as suspicious or blacklisted
     Look at mint addresses to see examples of accounts that may not need to be marked
     Start refactoring the tracing code
+
+3/28/2022
+
+  Debugged the backwards trace and forwards trace after refactoring
+  Using GenesysGo api for the forwardtrace and quicknode for the backtrace
+    Gave an example demonstration of what the end graph design will like
+  Start researching how to upload to Heroku
+  
+3/30/2022
+
+  Started creating files for a gunicorn app
+    created Procfile
+    created runtime.txt
+    created requirements.txt
+    created Pipfile
+  Still working through errors with pushing to Heroku
+  
      
