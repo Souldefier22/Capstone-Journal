@@ -143,4 +143,33 @@ Worked on filling out the weekly meeting report
     created Pipfile
   Still working through errors with pushing to Heroku
   
-     
+ 4/3/2022
+ 
+  Metup for weekly meeting 
+  API calls and re-organized database have been made
+  
+4/4/2022
+
+  Working on getting a Heroku hosting set up for the project
+  Demoed how the graphing works for showing the trace between accounts and transactions
+    Showed the progress for both forwards and backwards trace
+    Some accounts make transactions that create a loop
+  Potentially show the date an account was last made and when the account was created
+  Show the first 2 and last 2 characters for the transaction ids and account addresses
+    Simplify the frontend look
+  3 types of accounts
+    -Smart Contract
+    -Wallet Addresses
+      -check if the assigned id is System Program
+    -Data Accounts
+      check if the data size is 0
+      
+4/6/2022
+
+  Added a check for the data based accounts in the backwards trace
+    These accounts will now be ignored and not included in final result
+  Manually looked through the trace to determine how to look for mint accounts
+  Mint variable only establishes what kind of tokens the account holds
+    The token accounts may need to be ignored as a whole in order to account for mint accounts
+    
+    
