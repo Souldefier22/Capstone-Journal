@@ -172,4 +172,21 @@ Worked on filling out the weekly meeting report
   Mint variable only establishes what kind of tokens the account holds
     The token accounts may need to be ignored as a whole in order to account for mint accounts
     
+4/13/2022
+
+  Working on getting the application hosted
+  Refactored the requiremnets file and procfile file
+  Updated the backwards trace to ignore data accounts
+    only mark normal wallet addresses as suspicious
+  
+4/18/2022
+
+  Hosting is mostly done, working on getting the database working on the hosting
+  The trace no longer records data accounts and mint accounts
+  Show what the user just entered and then show the results from there
+    Add one more layer
+  Add a description that tells people that it has to take a certain amount of time
+  Possibly save previous transaction data so that it doesn't have to run in real time 
+  
+    
     
