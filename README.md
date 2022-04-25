@@ -188,5 +188,9 @@ Worked on filling out the weekly meeting report
   Add a description that tells people that it has to take a certain amount of time
   Possibly save previous transaction data so that it doesn't have to run in real time 
   
-    
-    
+ 4/25/2022
+ 
+  Demonstration
+  Possibly add a feature for saving previously input transactions
+  Possibly add outputs to the frontend as they come in
+  
