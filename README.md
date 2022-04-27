@@ -194,3 +194,15 @@ Worked on filling out the weekly meeting report
   Possibly add a feature for saving previously input transactions
   Possibly add outputs to the frontend as they come in
   
+4/27/2022
+
+  Worked on the concerns slide for the final presentation
+  Helped organize final presentation
+  Get an official domain for the website
+  Final Presentation notes from meeting:
+    Reduce amount of text on the slides
+    Update requirements slide
+    Get rid of design alternatives
+    Add more pictures and try to keep interest
+    For final project images, put 1 image per page
+  
